@@ -1,0 +1,1 @@
+[[Course Template]]: Use this file as a template for your courses. Just copy paste it and fill out the missing information. If you want, you can even add some metadata to the file in YAML format, by secluding a section with  `---` at the very top of the document.

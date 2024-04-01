@@ -1,0 +1,3 @@
+[[Keyword Template]]: Use this file as a template for your keywords and their definitions. Just copy paste it and fill out the missing information. If you want, you can even add some metadata to the file in YAML format, by secluding a section with  `---` at the very top of the document.
+
+We recommend gathering your sources in a citation manager and citing them here by creating a bibliography entry for every single citation.
